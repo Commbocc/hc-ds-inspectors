@@ -14,7 +14,10 @@ export default {
             let { data } = await axios.get(`${this.mediaPath}/index`)
             this.index = data
         },
-        find(id) {
+        async find(id) {
+            if (!this.index.length) {
+                await this.$inspectors.fetchInspectors()
+            }
             return this.index.find(i => i.id == id)
         }
     },

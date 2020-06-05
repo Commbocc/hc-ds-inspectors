@@ -40,8 +40,8 @@ export default {
     phone: null
   }),
   methods: {
-    setInspector() {
-      let inspector = this.$inspectors.find(this.inspectorId)
+    async setInspector() {
+      let inspector = await this.$inspectors.find(this.inspectorId)
 
       for (let [key, value] of Object.entries(inspector)) {
         this.$set(this, key, value)

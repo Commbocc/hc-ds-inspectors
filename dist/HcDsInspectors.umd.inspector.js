@@ -538,12 +538,12 @@ if (DESCRIPTORS && !(NAME in FunctionPrototype)) {
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"510d295e-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/views/Inspector.vue?vue&type=template&id=09b20f92&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"510d295e-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/views/Inspector.vue?vue&type=template&id=53018110&
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('p',[(_vm.image)?_c('img',{staticClass:"img-fluid d-block mx-auto border border-dark",attrs:{"src":_vm.imgSrc}}):_vm._e()]),_c('div',{staticClass:"text-center"},[_c('h2',[_vm._v(_vm._s(_vm.fullName))]),(_vm.inspectorType)?_c('p',{staticClass:"lead"},[_vm._v(_vm._s(_vm.inspectorType)+" Inspector")]):_vm._e(),_c('p',[_c('a',{staticClass:"btn btn-sm btn-secondary mx-1",attrs:{"href":("tel:" + _vm.phone)}},[_c('i',{staticClass:"fa fa-phone mx-1",attrs:{"aria-hidden":"true"}}),_vm._v(" Call "+_vm._s(_vm.firstName)+" ")]),_c('a',{staticClass:"btn btn-sm btn-secondary mx-1",attrs:{"href":("mailto:" + _vm.email)}},[_c('i',{staticClass:"fa fa-envelope mx-1",attrs:{"aria-hidden":"true"}}),_vm._v(" Email "+_vm._s(_vm.firstName)+" ")])])])])}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./src/views/Inspector.vue?vue&type=template&id=09b20f92&
+// CONCATENATED MODULE: ./src/views/Inspector.vue?vue&type=template&id=53018110&
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.concat.js
 var es_array_concat = __webpack_require__("99af");
@@ -663,7 +663,15 @@ function _nonIterableRest() {
 function _slicedToArray(arr, i) {
   return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest();
 }
+// EXTERNAL MODULE: ./node_modules/regenerator-runtime/runtime.js
+var runtime = __webpack_require__("96cf");
+
+// EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js
+var asyncToGenerator = __webpack_require__("1da1");
+
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/views/Inspector.vue?vue&type=script&lang=js&
+
+
 
 
 
@@ -712,15 +720,34 @@ function _slicedToArray(arr, i) {
   },
   methods: {
     setInspector: function setInspector() {
-      var inspector = this.$inspectors.find(this.inspectorId);
+      var _this = this;
 
-      for (var _i = 0, _Object$entries = Object.entries(inspector); _i < _Object$entries.length; _i++) {
-        var _Object$entries$_i = _slicedToArray(_Object$entries[_i], 2),
-            key = _Object$entries$_i[0],
-            value = _Object$entries$_i[1];
+      return Object(asyncToGenerator["a" /* default */])( /*#__PURE__*/regeneratorRuntime.mark(function _callee() {
+        var inspector, _i, _Object$entries, _Object$entries$_i, key, value;
 
-        this.$set(this, key, value);
-      }
+        return regeneratorRuntime.wrap(function _callee$(_context) {
+          while (1) {
+            switch (_context.prev = _context.next) {
+              case 0:
+                _context.next = 2;
+                return _this.$inspectors.find(_this.inspectorId);
+
+              case 2:
+                inspector = _context.sent;
+
+                for (_i = 0, _Object$entries = Object.entries(inspector); _i < _Object$entries.length; _i++) {
+                  _Object$entries$_i = _slicedToArray(_Object$entries[_i], 2), key = _Object$entries$_i[0], value = _Object$entries$_i[1];
+
+                  _this.$set(_this, key, value);
+                }
+
+              case 4:
+              case "end":
+                return _context.stop();
+            }
+          }
+        }, _callee);
+      }))();
     }
   },
   computed: {
