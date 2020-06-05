@@ -8,11 +8,11 @@
       <h2>{{ fullName }}</h2>
       <p v-if="inspectorType" class="lead">{{ inspectorType }} Inspector</p>
       <p>
-        <a :href="`tel:${phone}`" class="btn btn-sm btn-secondary">
+        <a :href="`tel:${phone}`" class="btn btn-sm btn-secondary mx-1">
           <i class="fa fa-phone mx-1" aria-hidden="true"></i>
           Call {{ firstName }}
         </a>
-        <a :href="`mailto:${email}`" class="btn btn-sm btn-secondary">
+        <a :href="`mailto:${email}`" class="btn btn-sm btn-secondary mx-1">
           <i class="fa fa-envelope mx-1" aria-hidden="true"></i>
           Email {{ firstName }}
         </a>
