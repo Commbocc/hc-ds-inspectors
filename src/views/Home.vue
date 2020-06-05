@@ -1,18 +1,20 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div>
+    <table class="table table-sm table-striped">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr v-for="(inspector) in $inspectors.index" :key="inspector.id">
+          <td>
+            <router-link :to="`/${inspector.id}`">{{ inspector.fullName }}</router-link>
+          </td>
+          <td>{{ inspector.inspectorType }}</td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </template>
-
-<script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
-
-export default {
-  name: 'Home',
-  components: {
-    HelloWorld
-  }
-}
-</script>
