@@ -1,7 +1,11 @@
 <template>
   <div>
     <p>
-      <img v-if="image" :src="imgSrc" class="img-fluid d-block mx-auto border border-dark" />
+      <img
+        v-if="imgSrc"
+        :src="imgSrc"
+        class="img-fluid d-block mx-auto border border-dark"
+      />
     </p>
 
     <div class="text-center">
@@ -26,8 +30,8 @@ export default {
   props: {
     inspectorId: {
       type: String,
-      required: true
-    }
+      required: true,
+    },
   },
   data: () => ({
     id: null,
@@ -37,24 +41,24 @@ export default {
     image: null,
     inspectorType: null,
     email: null,
-    phone: null
+    phone: null,
   }),
   methods: {
-    async setInspector() {
-      let inspector = await this.$inspectors.find(this.inspectorId)
+    setInspector() {
+      let inspector = this.$store.find(this.inspectorId)
 
       for (let [key, value] of Object.entries(inspector)) {
         this.$set(this, key, value)
       }
-    }
+    },
   },
   computed: {
     imgSrc() {
-      return this.image ? `${this.$inspectors.mediaPath}/${this.image}` : null
-    }
+      return this.image ? require(`@/assets/inspectors/${this.image}`) : null
+    },
   },
   mounted() {
     this.setInspector()
-  }
+  },
 }
 </script>

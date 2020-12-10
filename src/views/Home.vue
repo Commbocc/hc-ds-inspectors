@@ -8,9 +8,11 @@
         </tr>
       </thead>
       <tbody>
-        <tr v-for="(inspector) in $inspectors.index" :key="inspector.id">
+        <tr v-for="inspector in $store.inspectors" :key="inspector.id">
           <td>
-            <router-link :to="`/${inspector.id}`">{{ inspector.fullName }}</router-link>
+            <router-link :to="`/${inspector.id}`">{{
+              inspector.fullName
+            }}</router-link>
           </td>
           <td>{{ inspector.inspectorType }}</td>
         </tr>

@@ -1,0 +1,832 @@
+[
+  {
+    "id": "Adams-John",
+    "firstName": "John",
+    "lastName": "Adams",
+    "fullName": "John Adams",
+    "email": "AdamsJo@hcflgov.net",
+    "phone": "(813) 240-1253",
+    "inspectorType": "Contract Inspector",
+    "image": "Adams-John.jpg"
+  },
+  {
+    "id": "Alexander-Frank",
+    "firstName": "Frank",
+    "lastName": "Alexander",
+    "fullName": "Frank Alexander",
+    "email": "AlexanderF@hcflgov.net",
+    "phone": "",
+    "inspectorType": "Construction Code Inspector",
+    "image": "Alexander-Frank.jpg"
+  },
+  {
+    "id": "Alexander-Mike",
+    "firstName": "Mike",
+    "lastName": "Alexander",
+    "fullName": "Mike Alexander",
+    "email": "alexandermi@hcflgov.net",
+    "phone": "(813) 538-3059",
+    "inspectorType": "Building Structural",
+    "image": "Alexander-Mike.jpg"
+  },
+  {
+    "id": "Ashworth-Rod",
+    "firstName": "Rod",
+    "lastName": "Ashworth",
+    "fullName": "Rod Ashworth",
+    "email": "AshworthR@hcflgov.net",
+    "phone": "(813) 335-2895",
+    "inspectorType": "Building Structural",
+    "image": "Ashworth-Rod.jpg"
+  },
+  {
+    "id": "Barroso-Luis",
+    "firstName": "Luis",
+    "lastName": "Barroso",
+    "fullName": "Luis Barroso",
+    "email": "BarrosoL@hcflgov.net",
+    "phone": "(813) 335-6872",
+    "inspectorType": "Bldg/Spclty",
+    "image": "Barroso-Luis.jpg"
+  },
+  {
+    "id": "Beallah-Mo",
+    "firstName": "Mo",
+    "lastName": "Beallah",
+    "fullName": "Mo Beallah",
+    "email": "BeallahA@hcflgov.net",
+    "phone": "",
+    "inspectorType": "",
+    "image": "Beallah-Mo.jpg"
+  },
+  {
+    "id": "Blanco-Hector",
+    "firstName": "Hector",
+    "lastName": "Blanco",
+    "fullName": "Hector Blanco",
+    "email": "BlancoH@hcflgov.net",
+    "phone": "(813) 404-2877",
+    "inspectorType": "Building Structural",
+    "image": "Blanco-Hector.jpg"
+  },
+  {
+    "id": "Brown-Bradley",
+    "firstName": "Bradley",
+    "lastName": "Brown",
+    "fullName": "Bradley Brown",
+    "email": "BrownBr@hcflgov.net",
+    "phone": "(813) 614-3441",
+    "inspectorType": "Plumbing/Gas Inspector",
+    "image": ""
+  },
+  {
+    "id": "Buhler-Steve",
+    "firstName": "Steve",
+    "lastName": "Buhler",
+    "fullName": "Steve Buhler",
+    "email": "BuhlerS@hcflgov.net",
+    "phone": "(813)521-1835",
+    "inspectorType": "Mechanical",
+    "image": "Buhler-Steve.jpg"
+  },
+  {
+    "id": "Crockett-Keith",
+    "firstName": "Keith",
+    "lastName": "Crockett",
+    "fullName": "Keith Crockett",
+    "email": "CrocketK@hcflgov.net",
+    "phone": "(813) 404-8208",
+    "inspectorType": "Electrical",
+    "image": "Crockett-Keith.jpg"
+  },
+  {
+    "id": "Curtis-John",
+    "firstName": "John",
+    "lastName": "Curtis",
+    "fullName": "John Curtis",
+    "email": "CurtisJ@hcflgov.net",
+    "phone": "(813) 416-0687",
+    "inspectorType": "Contract Inspector",
+    "image": "Curtis-John.jpg"
+  },
+  {
+    "id": "Dietz-Howard",
+    "firstName": "Howard",
+    "lastName": "Dietz",
+    "fullName": "Howard Dietz",
+    "email": "DietzH@hcflgov.net",
+    "phone": "(813) 853-2594",
+    "inspectorType": "Building Structural",
+    "image": "Dietz-Howard.jpg"
+  },
+  {
+    "id": "DOrtona-Donna",
+    "firstName": "Donna",
+    "lastName": "D'Ortona",
+    "fullName": "Donna D'Ortona",
+    "email": "DOrtonaD@hcflgov.net",
+    "phone": "(813) 365-4032",
+    "inspectorType": "Contract Inspector",
+    "image": ""
+  },
+  {
+    "id": "Elgayar-Ezz",
+    "firstName": "Ezz",
+    "lastName": "Elgayar",
+    "fullName": "Ezz Elgayar",
+    "email": "",
+    "phone": "",
+    "inspectorType": "",
+    "image": "Elgayar-Ezz.jpg"
+  },
+  {
+    "id": "English-Josh",
+    "firstName": "Josh",
+    "lastName": "English",
+    "fullName": "Josh English",
+    "email": "EnglishJ@hcflgov.net",
+    "phone": "(813) 728-0563",
+    "inspectorType": "Mechanical",
+    "image": "English-Josh.jpg"
+  },
+  {
+    "id": "Ferrante-Brian",
+    "firstName": "Brian",
+    "lastName": "Ferrante",
+    "fullName": "Brian Ferrante",
+    "email": "FerranteJ@hcflgov.net",
+    "phone": "(813) 786-3521",
+    "inspectorType": "Bldg/Spclty",
+    "image": "Ferrante-Brian.jpg"
+  },
+  {
+    "id": "Ferry-Ryan",
+    "firstName": "Ryan",
+    "lastName": "Ferry",
+    "fullName": "Ryan Ferry",
+    "email": "FerryR@hcflgov.net",
+    "phone": "(727) 215-1131",
+    "inspectorType": "Contract Inspector",
+    "image": "Ferry-Ryan.jpg"
+  },
+  {
+    "id": "Figueroa-John",
+    "firstName": "John",
+    "lastName": "Figueroa",
+    "fullName": "John Figueroa",
+    "email": "FigueroaJh@hcflgov.net",
+    "phone": "(813) 335-7556",
+    "inspectorType": "Electrical",
+    "image": "Figueroa-John.jpg"
+  },
+  {
+    "id": "Folwell-Daniel",
+    "firstName": "Daniel",
+    "lastName": "Folwell",
+    "fullName": "Daniel Folwell",
+    "email": "FolwellD@hcflgov.net",
+    "phone": "(727) 409-6163",
+    "inspectorType": "Contract Inspector",
+    "image": ""
+  },
+  {
+    "id": "Gainey-Joshua",
+    "firstName": "Joshua",
+    "lastName": "Gainey",
+    "fullName": "Joshua Gainey",
+    "email": "GaineyJ@hcflgov.net",
+    "phone": "(813) 557-8111",
+    "inspectorType": "Building Structural",
+    "image": "Gainey-Joshua.jpg"
+  },
+  {
+    "id": "Gerdes-Greg",
+    "firstName": "Greg",
+    "lastName": "Gerdes",
+    "fullName": "Greg Gerdes",
+    "email": "GerdesG@hcflgov.net",
+    "phone": "(813) 352-5801",
+    "inspectorType": "Electrical",
+    "image": "Gerdes-Greg.jpg"
+  },
+  {
+    "id": "Gilbert-John",
+    "firstName": "John",
+    "lastName": "Gilbert",
+    "fullName": "John Gilbert",
+    "email": "GilbertJ@hcflgov.net",
+    "phone": "(813) 557-5934",
+    "inspectorType": "Building Structural",
+    "image": "Gilbert-John.jpg"
+  },
+  {
+    "id": "Gilbert-Randall",
+    "firstName": "Randall",
+    "lastName": "Gilbert",
+    "fullName": "Randall Gilbert",
+    "email": "GilbertR@hcflgov.net",
+    "phone": "(813) 508-1719",
+    "inspectorType": "Bldg/Spclty - Assistant Chief",
+    "image": "Gilbert-Randall.jpg"
+  },
+  {
+    "id": "Gonzalez-Perry",
+    "firstName": "Perry",
+    "lastName": "Gonzalez",
+    "fullName": "Perry Gonzalez",
+    "email": "GonzalezP@hcflgov.net",
+    "phone": "(813) 335-7552",
+    "inspectorType": "Plumbing/Gas",
+    "image": "Gonzalez-Perry.jpg"
+  },
+  {
+    "id": "Hanchett-Richard",
+    "firstName": "Richard",
+    "lastName": "Hanchett",
+    "fullName": "Richard Hanchett",
+    "email": "HanchettR@hcflgov.net",
+    "phone": "(813) 335-2785",
+    "inspectorType": "Building Structural",
+    "image": "Hanchett-Richard.jpg"
+  },
+  {
+    "id": "Harris-Nathan",
+    "firstName": "Nathan",
+    "lastName": "Harris",
+    "fullName": "Nathan Harris",
+    "email": "HarrisN@hcflgov.net",
+    "phone": "(813) 442-2764",
+    "inspectorType": "Building Structural",
+    "image": "Harris-Nathan.jpg"
+  },
+  {
+    "id": "Henderson-Robert",
+    "firstName": "Robert",
+    "lastName": "Henderson",
+    "fullName": "Robert Henderson",
+    "email": "HendersonR@hcflgov.net",
+    "phone": "(813) 335-7581",
+    "inspectorType": "Plumbing/Gas",
+    "image": "Henderson-Robert.jpg"
+  },
+  {
+    "id": "Hendriksen-Keith",
+    "firstName": "Keith",
+    "lastName": "Hendriksen",
+    "fullName": "Keith Hendriksen",
+    "email": "HendriksenK@hcflgov.net",
+    "phone": "(813) 335-6879",
+    "inspectorType": "Electrical",
+    "image": "Hendriksen-Keith.jpg"
+  },
+  {
+    "id": "Hernandez-Antonio",
+    "firstName": "Antonio",
+    "lastName": "Hernandez",
+    "fullName": "Antonio Hernandez",
+    "email": "HernandezAn@hcflgov.net",
+    "phone": "(813) 335-7563",
+    "inspectorType": "Plumbing/Gas",
+    "image": "Hernandez-Antonio.jpg"
+  },
+  {
+    "id": "Irwin-Michael",
+    "firstName": "Michael",
+    "lastName": "Irwin",
+    "fullName": "Michael Irwin",
+    "email": "IrwinMi@hcflgov.net",
+    "phone": "(813) 244-6307",
+    "inspectorType": "Plumbing/Gas",
+    "image": "Irwin-Michael.jpg"
+  },
+  {
+    "id": "Jenkins-Michael",
+    "firstName": "Michael",
+    "lastName": "Jenkins",
+    "fullName": "Michael Jenkins",
+    "email": "JenkinsMi@hcflgov.net",
+    "phone": "(813) 326-3995",
+    "inspectorType": "Mechanical",
+    "image": "Jenkins-Michael.jpg"
+  },
+  {
+    "id": "Jimenez-David",
+    "firstName": "David",
+    "lastName": "Jimenez",
+    "fullName": "David Jimenez",
+    "email": "JimenezD@hcflgov.net",
+    "phone": "(813) 760-8760",
+    "inspectorType": "Plumbing/Gas",
+    "image": "Jimenez-David.jpg"
+  },
+  {
+    "id": "Johnson-Curtis",
+    "firstName": "Curtis",
+    "lastName": "Johnson",
+    "fullName": "Curtis Johnson",
+    "email": "JohnsonCU@hcflgov.net",
+    "phone": "(813) 313-6457",
+    "inspectorType": "Contract Inspector",
+    "image": ""
+  },
+  {
+    "id": "Jones-Michael",
+    "firstName": "Michael",
+    "lastName": "Jones",
+    "fullName": "Michael Jones",
+    "email": "JonesMl@hcflgov.net",
+    "phone": "(813) 404-6802",
+    "inspectorType": "Mechanical",
+    "image": "Jones-Michael.jpg"
+  },
+  {
+    "id": "Jordan-Alisa",
+    "firstName": "Alisa",
+    "lastName": "Jordan",
+    "fullName": "Alisa Jordan",
+    "email": "JordanAl@hcflgov.net",
+    "phone": "(813) 404-4763",
+    "inspectorType": "Building Structural",
+    "image": "Jordan-Alisa.jpg"
+  },
+  {
+    "id": "Joshi-Dharmesh",
+    "firstName": "Dharmesh",
+    "lastName": "Joshi",
+    "fullName": "Dharmesh Joshi",
+    "email": "JoshiD@hcflgov.net",
+    "phone": "(813) 450-6278",
+    "inspectorType": "Mechanical Inspector",
+    "image": "Joshi-Dharmesh.jpg"
+  },
+  {
+    "id": "Kent-Richard",
+    "firstName": "Richard",
+    "lastName": "Kent",
+    "fullName": "Richard Kent",
+    "email": "KentR@hcflgov.net",
+    "phone": "(813) 731-2399",
+    "inspectorType": "Contract Inspector",
+    "image": "Kent-Richard.jpg"
+  },
+  {
+    "id": "Kettenburg-Gary",
+    "firstName": "Gary",
+    "lastName": "Kettenburg",
+    "fullName": "Gary Kettenburg",
+    "email": "KettenburgG@hcflgov.net",
+    "phone": "(813) 853-2407",
+    "inspectorType": "Building Structural",
+    "image": "Kettenburg-Gary.jpg"
+  },
+  {
+    "id": "Kirk-Mark",
+    "firstName": "Mark",
+    "lastName": "Kirk",
+    "fullName": "Mark Kirk",
+    "email": "KirkM@hcflgov.net",
+    "phone": "(813) 335-7545",
+    "inspectorType": "Electrical",
+    "image": "Kirk-Mark.jpg"
+  },
+  {
+    "id": "Lawson-Brad",
+    "firstName": "Brad",
+    "lastName": "Lawson",
+    "fullName": "Brad Lawson",
+    "email": "LawsonB@hcflgov.net",
+    "phone": "(813) 767-4684",
+    "inspectorType": "Electrical Inspector",
+    "image": "Lawson-Brad.jpg"
+  },
+  {
+    "id": "Lazukin-Artem",
+    "firstName": "Artem",
+    "lastName": "Lazukin",
+    "fullName": "Artem Lazukin",
+    "email": "LazukinA@hcflgov.net",
+    "phone": "(813) 334-8077",
+    "inspectorType": "Plumbing/Gas",
+    "image": "Lazukin-Artem.jpg"
+  },
+  {
+    "id": "Lewis-Brian",
+    "firstName": "Brian",
+    "lastName": "Lewis",
+    "fullName": "Brian Lewis",
+    "email": "LewisB@hcflgov.net",
+    "phone": "(813) 267-2315",
+    "inspectorType": "Electrical",
+    "image": "Lewis-Brian.jpg"
+  },
+  {
+    "id": "Leytze-Mark",
+    "firstName": "Mark",
+    "lastName": "Leytze",
+    "fullName": "Mark Leytze",
+    "email": "LeytzeM@hcflgov.net",
+    "phone": "(813) 404-7931",
+    "inspectorType": "Mechanical",
+    "image": "Leytze-Mark.jpg"
+  },
+  {
+    "id": "Lindstrom-Paul",
+    "firstName": "Paul",
+    "lastName": "Lindstrom",
+    "fullName": "Paul Lindstrom",
+    "email": "LindstromP@hcflgov.net",
+    "phone": "(813) 326-1818",
+    "inspectorType": "Contract Inspector",
+    "image": ""
+  },
+  {
+    "id": "Lively-Paul",
+    "firstName": "Paul",
+    "lastName": "Lively",
+    "fullName": "Paul Lively",
+    "email": "LivelyD@hcflgov.net",
+    "phone": "(813) 335-7554",
+    "inspectorType": "Plumbing/Gas",
+    "image": "Lively-Paul.jpg"
+  },
+  {
+    "id": "Lopez-Jose",
+    "firstName": "Jose",
+    "lastName": "Lopez",
+    "fullName": "Jose Lopez",
+    "email": "LopezJe@hcflgov.net",
+    "phone": "(787) 436-1217",
+    "inspectorType": "Contract Inspector",
+    "image": "Lopez-Jose.jpg"
+  },
+  {
+    "id": "Loughlin-Tom",
+    "firstName": "Tom",
+    "lastName": "Loughlin",
+    "fullName": "Tom Loughlin",
+    "email": "Loughlint@hcflgov.net",
+    "phone": "(813) 335-2961",
+    "inspectorType": "Building Structural",
+    "image": "Loughlin-Tom.jpg"
+  },
+  {
+    "id": "Martinez-Wilson",
+    "firstName": "Wilson",
+    "lastName": "Martinez",
+    "fullName": "Wilson Martinez",
+    "email": "MartinezWi@hcflgov.net",
+    "phone": "(813) 767-5569",
+    "inspectorType": "Electrical Inspector",
+    "image": "Martinez-Wilson.jpg"
+  },
+  {
+    "id": "May-James",
+    "firstName": "James",
+    "lastName": "May",
+    "fullName": "James May",
+    "email": "Mayj@hcflgov.net",
+    "phone": "(813) 245-9887",
+    "inspectorType": "Plumbing/Gas",
+    "image": "May-James.jpg"
+  },
+  {
+    "id": "McDougal-Michael",
+    "firstName": "Michael",
+    "lastName": "McDougal",
+    "fullName": "Michael McDougal",
+    "email": "McDougalM@hcflgov.net",
+    "phone": "(813) 422-8798",
+    "inspectorType": "Building Structural",
+    "image": "McDougal-Michael.jpg"
+  },
+  {
+    "id": "McNenney-Sean",
+    "firstName": "Sean",
+    "lastName": "McNenney",
+    "fullName": "Sean McNenney",
+    "email": "McNenneyS@hcflgov.net",
+    "phone": "(813) 335-7575",
+    "inspectorType": "Plumbing/Gas",
+    "image": "McNenney-Sean.jpg"
+  },
+  {
+    "id": "Mesa-Dario",
+    "firstName": "Dario",
+    "lastName": "Mesa",
+    "fullName": "Dario Mesa",
+    "email": "MesaDa@hcflgov.net",
+    "phone": "(813) 520-9632",
+    "inspectorType": "Mechanical",
+    "image": "Mesa-Dario.jpg"
+  },
+  {
+    "id": "Meszaros-Frank",
+    "firstName": "Frank",
+    "lastName": "Meszaros",
+    "fullName": "Frank Meszaros",
+    "email": "MeszarosF@hcflgov.net",
+    "phone": "(813) 853-2539",
+    "inspectorType": "Building Structural",
+    "image": "Meszaros-Frank.jpg"
+  },
+  {
+    "id": "Meulener-Robert",
+    "firstName": "Robert",
+    "lastName": "Meulener",
+    "fullName": "Robert Meulener",
+    "email": "Meulenerr@hcflgov.net",
+    "phone": "(813) 335-7568",
+    "inspectorType": "Mechanical",
+    "image": "Meulener-Robert.jpg"
+  },
+  {
+    "id": "Netzel-Michael",
+    "firstName": "Michael",
+    "lastName": "Netzel",
+    "fullName": "Michael Netzel",
+    "email": "NetzelM@hcflgov.net",
+    "phone": "(813) 710-0010",
+    "inspectorType": "Plumbing/Gas Inspector",
+    "image": "Netzel-Michael.jpg"
+  },
+  {
+    "id": "Nick-Gus",
+    "firstName": "Gus",
+    "lastName": "Nick",
+    "fullName": "Gus Nick",
+    "email": "NickG@hcflgov.net",
+    "phone": "(813) 240-5074",
+    "inspectorType": "Contract Inspector",
+    "image": ""
+  },
+  {
+    "id": "Nolan-Pat",
+    "firstName": "Pat",
+    "lastName": "Nolan",
+    "fullName": "Pat Nolan",
+    "email": "NolanP@hcflgov.net",
+    "phone": "(904) 378-6028",
+    "inspectorType": "Contract Inspector",
+    "image": "Nolan-Pat.jpg"
+  },
+  {
+    "id": "Pryor-Rodney",
+    "firstName": "Rodney",
+    "lastName": "Pryor",
+    "fullName": "Rodney Pryor",
+    "email": "PryorR@hcflgov.net",
+    "phone": "(727) 637-3043",
+    "inspectorType": "Building Structural",
+    "image": "Pryor-Rodney.jpg"
+  },
+  {
+    "id": "Reina-Juan",
+    "firstName": "Juan",
+    "lastName": "Reina",
+    "fullName": "Juan Reina",
+    "email": "ReinaJ@hcflgov.net",
+    "phone": "(813) 335-7304",
+    "inspectorType": "Mechanical",
+    "image": "Reina-Juan.jpg"
+  },
+  {
+    "id": "Roberts-Leland",
+    "firstName": "Leland",
+    "lastName": "Roberts",
+    "fullName": "Leland Roberts",
+    "email": "RobertsLe@hcflgov.net",
+    "phone": "(813) 334-5519",
+    "inspectorType": "Electrical",
+    "image": "Roberts-Leland.jpg"
+  },
+  {
+    "id": "Safreed-Tom",
+    "firstName": "Tom",
+    "lastName": "Safreed",
+    "fullName": "Tom Safreed",
+    "email": "SafreedT@hcflgov.net",
+    "phone": "",
+    "inspectorType": "Plumbing/Gas Inspector",
+    "image": "Safreed-Tom.jpg"
+  },
+  {
+    "id": "Schuler-Frederick",
+    "firstName": "Frederick",
+    "lastName": "Schuler",
+    "fullName": "Frederick Schuler",
+    "email": "SchulerF@hcflgov.net",
+    "phone": "(813) 335-7308",
+    "inspectorType": "Mechanical",
+    "image": "Schuler-Frederick.jpg"
+  },
+  {
+    "id": "Scott-Ken",
+    "firstName": "Ken",
+    "lastName": "Scott",
+    "fullName": "Ken Scott",
+    "email": "ScottK@hcflgov.net",
+    "phone": "(813) 440-8996",
+    "inspectorType": "Electrical",
+    "image": "Scott-Ken.jpg"
+  },
+  {
+    "id": "Simone-Robert",
+    "firstName": "Robert",
+    "lastName": "Simone",
+    "fullName": "Robert Simone",
+    "email": "SimoneR@hcflgov.net",
+    "phone": "(813) 597-4828",
+    "inspectorType": "Contract Inspector",
+    "image": "Simone-Robert.jpg"
+  },
+  {
+    "id": "Skerrett-Gregory",
+    "firstName": "Gregory",
+    "lastName": "Skerrett",
+    "fullName": "Gregory Skerrett",
+    "email": "SkerrettG@hcflgov.net",
+    "phone": "(813) 981-4310",
+    "inspectorType": "Building Structural",
+    "image": "Skerrett-Gregory.jpg"
+  },
+  {
+    "id": "Smith-Cary",
+    "firstName": "Cary",
+    "lastName": "Smith",
+    "fullName": "Cary Smith",
+    "email": "SmithCar@hcflgov.net",
+    "phone": "(813) 352-5788",
+    "inspectorType": "Electrical",
+    "image": "Smith-Cary.jpg"
+  },
+  {
+    "id": "Spaak-Evan",
+    "firstName": "Evan",
+    "lastName": "Spaak",
+    "fullName": "Evan Spaak",
+    "email": "SpaakE@hcflgov.net",
+    "phone": "(813) 373-1354",
+    "inspectorType": "Building Structural",
+    "image": "Spaak-Evan.jpg"
+  },
+  {
+    "id": "Steele-Jason",
+    "firstName": "Jason",
+    "lastName": "Steele",
+    "fullName": "Jason Steele",
+    "email": "SteeleJ@hcflgov.net",
+    "phone": "(727) 851-1099",
+    "inspectorType": "Contract Inspector",
+    "image": ""
+  },
+  {
+    "id": "Strba-Jan",
+    "firstName": "Jan",
+    "lastName": "Strba",
+    "fullName": "Jan Strba",
+    "email": "StrbaJ@hcflgov.net",
+    "phone": "(813) 557-5110",
+    "inspectorType": "Building Structural",
+    "image": "Strba-Jan.jpg"
+  },
+  {
+    "id": "Strickland-Joseph",
+    "firstName": "Joseph",
+    "lastName": "Strickland",
+    "fullName": "Joseph Strickland",
+    "email": "StricklandJ@hcflgov.net",
+    "phone": "(813) 404-4787",
+    "inspectorType": "Electrical",
+    "image": "Strickland-Joseph.jpg"
+  },
+  {
+    "id": "Sutphin-Mike",
+    "firstName": "Mike",
+    "lastName": "Sutphin",
+    "fullName": "Mike Sutphin",
+    "email": "SutphinM@hcflgov.net",
+    "phone": "(813) 813-297-8268",
+    "inspectorType": "Contract Inspector",
+    "image": "Sutphin-Mike.jpg"
+  },
+  {
+    "id": "Szwejkowski-Jerry",
+    "firstName": "Jerry",
+    "lastName": "Szwejkowski",
+    "fullName": "Jerry Szwejkowski",
+    "email": "SzwejkowskiJ@hcflgov.net",
+    "phone": "(813) 335-7571",
+    "inspectorType": "Building Structural",
+    "image": "Szwejkowski-Jerry.jpg"
+  },
+  {
+    "id": "Tapp-James",
+    "firstName": "James",
+    "lastName": "Tapp",
+    "fullName": "James Tapp",
+    "email": "TappJ@hcflgov.net",
+    "phone": "(813) 335-8138",
+    "inspectorType": "Electrical",
+    "image": "Tapp-James.jpg"
+  },
+  {
+    "id": "Tew-Michael",
+    "firstName": "Michael",
+    "lastName": "Tew",
+    "fullName": "Michael Tew",
+    "email": "Tewm@hcflgov.net",
+    "phone": "",
+    "inspectorType": "",
+    "image": "Tew-Michael.jpg"
+  },
+  {
+    "id": "Thomas-Jon",
+    "firstName": "Jon",
+    "lastName": "Thomas",
+    "fullName": "Jon Thomas",
+    "email": "ThomasJo@hcflgov.net",
+    "phone": "(727) 412-2202",
+    "inspectorType": "Contract Inspector",
+    "image": "Thomas-Jon.jpg"
+  },
+  {
+    "id": "Trout-Dean",
+    "firstName": "Dean",
+    "lastName": "Trout",
+    "fullName": "Dean Trout",
+    "email": "TroutD@hcflgov.net",
+    "phone": "(813) 335-7541",
+    "inspectorType": "Electrical Inspector",
+    "image": ""
+  },
+  {
+    "id": "Verdecia-Hector",
+    "firstName": "Hector",
+    "lastName": "Verdecia",
+    "fullName": "Hector Verdecia",
+    "email": "VerdeciaH@hcflgov.net",
+    "phone": "(813) 404-8981",
+    "inspectorType": "Building Structural",
+    "image": "Verdecia-Hector.jpg"
+  },
+  {
+    "id": "Waterman-Jeffrey",
+    "firstName": "Jeffrey",
+    "lastName": "Waterman",
+    "fullName": "Jeffrey Waterman",
+    "email": "WatermanJe@hcflgov.net",
+    "phone": "(813) 557-5109",
+    "inspectorType": "Bldg/Spclty",
+    "image": "Waterman-Jeffrey.jpg"
+  },
+  {
+    "id": "West-Andrew",
+    "firstName": "Andrew",
+    "lastName": "West",
+    "fullName": "Andrew West",
+    "email": "WestA@hcflgov.net",
+    "phone": "(813)610-1974",
+    "inspectorType": "Contract Inspector",
+    "image": ""
+  },
+  {
+    "id": "Williams-Monique",
+    "firstName": "Monique",
+    "lastName": "Williams",
+    "fullName": "Monique Williams",
+    "email": "WilliamsMo@hcflgov.net",
+    "phone": "(813) 326-3254",
+    "inspectorType": "Building Structural",
+    "image": "Williams-Monique.jpg"
+  },
+  {
+    "id": "Williams-Stephen",
+    "firstName": "Stephen",
+    "lastName": "Williams",
+    "fullName": "Stephen Williams",
+    "email": "WilliamsSte@hcflgov.net",
+    "phone": "(813) 245-4033",
+    "inspectorType": "Electrical Inspector",
+    "image": "Williams-Stephen.jpg"
+  },
+  {
+    "id": "Yovino-Steve",
+    "firstName": "Steve",
+    "lastName": "Yovino",
+    "fullName": "Steve Yovino",
+    "email": "YovinoS@hcflgov.net",
+    "phone": "(813) 727-9313",
+    "inspectorType": "Building Structural",
+    "image": "Yovino-Steve.jpg"
+  },
+  {
+    "id": "Zegarski-Renee",
+    "firstName": "Renee",
+    "lastName": "Zegarski",
+    "fullName": "Renee Zegarski",
+    "email": "ZegarskiR@hcflgov.net",
+    "phone": "(813) 215-9519",
+    "inspectorType": "Building Structural",
+    "image": "Zegarski-Renee.jpg"
+  }
+]

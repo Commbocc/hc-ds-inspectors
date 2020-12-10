@@ -5,17 +5,17 @@
 </template>
 
 <script>
-import inspectors from '@/inspectors'
+import store from '@/store'
 import { createRouter } from '@/router'
 
 export default {
   install(Vue) {
-    Vue.prototype.$inspectors = new Vue(inspectors)
+    Vue.prototype.$store = new Vue(store)
 
     Vue.component('HcDsInspectors', {
       ...this,
-      router: createRouter(Vue)
+      router: createRouter(Vue),
     })
-  }
+  },
 }
 </script>
