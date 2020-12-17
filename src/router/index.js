@@ -5,7 +5,7 @@ export const routes = [
   {
     path: '/',
     name: 'Home',
-    component: Home
+    component: Home,
   },
   {
     path: '/:inspectorId',
@@ -14,14 +14,18 @@ export const routes = [
     // route level code-splitting
     // this generates a separate chunk (inspector.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "inspector" */ '../views/Inspector.vue')
-  }
+    component: () =>
+      import(/* webpackChunkName: "inspector" */ '../views/Inspector.vue'),
+  },
 ]
 
-export const createRouter = function (Vue) {
+export const createRouter = function(Vue) {
   Vue.use(VueRouter)
 
   return new VueRouter({
-    routes
+    routes,
+    scrollBehavior() {
+      return { x: 0, y: 0 }
+    },
   })
 }
