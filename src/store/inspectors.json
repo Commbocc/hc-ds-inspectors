@@ -6,7 +6,7 @@
     "fullName": "John Adams",
     "email": "AdamsJo@hcflgov.net",
     "phone": "(813) 240-1253",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": "Adams-John.jpg"
   },
   {
@@ -16,7 +16,7 @@
     "fullName": "Frank Alexander",
     "email": "AlexanderF@hcflgov.net",
     "phone": "",
-    "inspectorType": "Construction Code Inspector",
+    "inspectorType": "Construction Code",
     "image": "Alexander-Frank.jpg"
   },
   {
@@ -76,7 +76,7 @@
     "fullName": "Bradley Brown",
     "email": "BrownBr@hcflgov.net",
     "phone": "(813) 614-3441",
-    "inspectorType": "Plumbing/Gas Inspector",
+    "inspectorType": "Plumbing/Gas",
     "image": ""
   },
   {
@@ -106,7 +106,7 @@
     "fullName": "John Curtis",
     "email": "CurtisJ@hcflgov.net",
     "phone": "(813) 416-0687",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": "Curtis-John.jpg"
   },
   {
@@ -126,7 +126,7 @@
     "fullName": "Donna D'Ortona",
     "email": "DOrtonaD@hcflgov.net",
     "phone": "(813) 365-4032",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": ""
   },
   {
@@ -166,7 +166,7 @@
     "fullName": "Ryan Ferry",
     "email": "FerryR@hcflgov.net",
     "phone": "(727) 215-1131",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": "Ferry-Ryan.jpg"
   },
   {
@@ -186,7 +186,7 @@
     "fullName": "Daniel Folwell",
     "email": "FolwellD@hcflgov.net",
     "phone": "(727) 409-6163",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": ""
   },
   {
@@ -326,7 +326,7 @@
     "fullName": "Curtis Johnson",
     "email": "JohnsonCU@hcflgov.net",
     "phone": "(813) 313-6457",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": ""
   },
   {
@@ -356,7 +356,7 @@
     "fullName": "Dharmesh Joshi",
     "email": "JoshiD@hcflgov.net",
     "phone": "(813) 450-6278",
-    "inspectorType": "Mechanical Inspector",
+    "inspectorType": "Mechanical",
     "image": "Joshi-Dharmesh.jpg"
   },
   {
@@ -366,7 +366,7 @@
     "fullName": "Richard Kent",
     "email": "KentR@hcflgov.net",
     "phone": "(813) 731-2399",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": "Kent-Richard.jpg"
   },
   {
@@ -396,7 +396,7 @@
     "fullName": "Brad Lawson",
     "email": "LawsonB@hcflgov.net",
     "phone": "(813) 767-4684",
-    "inspectorType": "Electrical Inspector",
+    "inspectorType": "Electrical",
     "image": "Lawson-Brad.jpg"
   },
   {
@@ -436,7 +436,7 @@
     "fullName": "Paul Lindstrom",
     "email": "LindstromP@hcflgov.net",
     "phone": "(813) 326-1818",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": ""
   },
   {
@@ -456,7 +456,7 @@
     "fullName": "Jose Lopez",
     "email": "LopezJe@hcflgov.net",
     "phone": "(787) 436-1217",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": "Lopez-Jose.jpg"
   },
   {
@@ -476,7 +476,7 @@
     "fullName": "Wilson Martinez",
     "email": "MartinezWi@hcflgov.net",
     "phone": "(813) 767-5569",
-    "inspectorType": "Electrical Inspector",
+    "inspectorType": "Electrical",
     "image": "Martinez-Wilson.jpg"
   },
   {
@@ -546,7 +546,7 @@
     "fullName": "Michael Netzel",
     "email": "NetzelM@hcflgov.net",
     "phone": "(813) 710-0010",
-    "inspectorType": "Plumbing/Gas Inspector",
+    "inspectorType": "Plumbing/Gas",
     "image": "Netzel-Michael.jpg"
   },
   {
@@ -556,7 +556,7 @@
     "fullName": "Gus Nick",
     "email": "NickG@hcflgov.net",
     "phone": "(813) 240-5074",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": ""
   },
   {
@@ -566,7 +566,7 @@
     "fullName": "Pat Nolan",
     "email": "NolanP@hcflgov.net",
     "phone": "(904) 378-6028",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": "Nolan-Pat.jpg"
   },
   {
@@ -606,7 +606,7 @@
     "fullName": "Tom Safreed",
     "email": "SafreedT@hcflgov.net",
     "phone": "",
-    "inspectorType": "Plumbing/Gas Inspector",
+    "inspectorType": "Plumbing/Gas",
     "image": "Safreed-Tom.jpg"
   },
   {
@@ -636,7 +636,7 @@
     "fullName": "Robert Simone",
     "email": "SimoneR@hcflgov.net",
     "phone": "(813) 597-4828",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": "Simone-Robert.jpg"
   },
   {
@@ -676,7 +676,7 @@
     "fullName": "Jason Steele",
     "email": "SteeleJ@hcflgov.net",
     "phone": "(727) 851-1099",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": ""
   },
   {
@@ -706,7 +706,7 @@
     "fullName": "Mike Sutphin",
     "email": "SutphinM@hcflgov.net",
     "phone": "(813) 813-297-8268",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": "Sutphin-Mike.jpg"
   },
   {
@@ -746,7 +746,7 @@
     "fullName": "Jon Thomas",
     "email": "ThomasJo@hcflgov.net",
     "phone": "(727) 412-2202",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": "Thomas-Jon.jpg"
   },
   {
@@ -756,7 +756,7 @@
     "fullName": "Dean Trout",
     "email": "TroutD@hcflgov.net",
     "phone": "(813) 335-7541",
-    "inspectorType": "Electrical Inspector",
+    "inspectorType": "Electrical",
     "image": ""
   },
   {
@@ -786,7 +786,7 @@
     "fullName": "Andrew West",
     "email": "WestA@hcflgov.net",
     "phone": "(813)610-1974",
-    "inspectorType": "Contract Inspector",
+    "inspectorType": "Contract",
     "image": ""
   },
   {
@@ -806,7 +806,7 @@
     "fullName": "Stephen Williams",
     "email": "WilliamsSte@hcflgov.net",
     "phone": "(813) 245-4033",
-    "inspectorType": "Electrical Inspector",
+    "inspectorType": "Electrical",
     "image": "Williams-Stephen.jpg"
   },
   {

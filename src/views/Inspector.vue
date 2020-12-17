@@ -54,7 +54,11 @@ export default {
   },
   computed: {
     imgSrc() {
-      return this.image ? require(`@/assets/inspectors/${this.image}`) : null
+      try {
+        return this.image ? require(`@/assets/inspectors/${this.image}`) : null
+      } catch (error) {
+        return null
+      }
     },
   },
   mounted() {
