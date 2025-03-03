@@ -29,3 +29,5 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 [https://docs.google.com/spreadsheets/d/1F233pUPd8n3Q9cSaF9HP9wprx7ZOAySQmUT9p8HTucg/edit#gid=0](https://docs.google.com/spreadsheets/d/1F233pUPd8n3Q9cSaF9HP9wprx7ZOAySQmUT9p8HTucg/edit#gid=0)
+
+[https://jsfiddle.net/47wduxgz/1/](https://jsfiddle.net/47wduxgz/1/)
